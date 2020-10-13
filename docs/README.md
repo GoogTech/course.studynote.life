@@ -1,6 +1,6 @@
-<!-- <p align="center">
-	<a href="https://github.com/YUbuntu0109/studynote.life"><img src=""></a>
-</p> -->
+<p align="center">
+	<a href="https://github.com/YUbuntu0109/studynote.life"><img src="http://studynote.life/logo.png"></a>
+</p>
 
 <p style="text-align:center;font-size:25px;">
 	📖 Daily study notes for everything what I want to learn
