@@ -2,7 +2,7 @@
 	<a href="https://github.com/YUbuntu0109/studynote.life"><img src="http://studynote.life/logo.png" width="260" height="260"></a>
 </p>
 
-<p style="text-align:center;font-size:25px;">
+<p style="text-align:center;font-size:25px;padding-top: 85px">
 	📖 Daily study notes for everything what I want to learn
 </p>
 
