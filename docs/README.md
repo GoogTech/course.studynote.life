@@ -3,7 +3,7 @@
 </p>
 
 <p style="text-align:center;font-size:25px;padding-top: 85px">
-	📖 Daily study notes for everything what I want to learn
+	📖 study notes about everything what I want to learn in the daily life
 </p>
 
 <p align="center">
