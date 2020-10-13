@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-	<img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"></img>
 	<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
 		<img alt="知识共享许可协议" style="border-width:0" height="21" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png">
 	</a>
