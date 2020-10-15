@@ -3,7 +3,7 @@
 </p>
 
 <p style="text-align:center;font-size:25px;padding-top: 85px">
-	📖 求知若饥，虚心若愚，在有限的时间内做最正确的事情
+	📖 求知若饥，虚心若愚，在有限的时间内做最正确的事 !
 </p>
 
 <p align="center">
