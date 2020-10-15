@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/YUbuntu0109/studynote.life"><img src="http://studynote.life/logo.png" width="220" height="220"></a>
+	<a href="https://github.com/YUbuntu0109/studynote.life"><img src="https://course.studynote.life/logo.png" width="220" height="220"></a>
 </p>
 
 <p style="text-align:center;font-size:25px;padding-top: 85px">

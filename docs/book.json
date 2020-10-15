@@ -33,7 +33,7 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo": {
-            "url": "http://studynote.life/logo-min.png",
+            "url": "https://course.studynote.life/logo-min.png",
             "style": "background: none; max-height: 45px; min-height: 30px"
         },
         "tbfed-pagefooter": {
