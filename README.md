@@ -1,2 +1,2 @@
-# studynote.life
-📖 Daily study notes for everything what I want to learn.
+# course.studynote.life
+📖 Study notes about courses of the university
