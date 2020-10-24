@@ -1,6 +1,8 @@
 # Summary
 
 * [简介](README.md)
+* [离散数学](离散数学/README.md)
+* [线性代数](线性代数/README.md)
 * [软件工程](软件工程/README.md)
 * [数据结构](数据结构/README.md)
 * [操作系统](操作系统/README.md)
