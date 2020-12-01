@@ -2,7 +2,6 @@
     "plugins": [
         "theme-comscore",
         "popup",
-        "lightbox",
         "code",
         "github",
         "-highlight", 
